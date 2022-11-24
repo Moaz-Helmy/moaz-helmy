@@ -22,6 +22,6 @@ Looking forward to becoming an Embedded Softwre Engineer.
    </p>
 <p align="center">------------------------------------------------------------------</p>
 
- Check out my latest Embedded Systems Project "On-demand Traffic Light Control System"! 👌 <https://github.com/Moaz-Helmy/On-Demand-Traffic-Control-System.git>
+My latest Embedded Systems Project "On-demand Traffic Light Control System"! 👌 <https://github.com/Moaz-Helmy/On-Demand-Traffic-Control-System.git>
 
 
