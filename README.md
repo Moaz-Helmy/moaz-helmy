@@ -9,7 +9,7 @@
 <p align="center">----------------</p>
 
 I'm a senior 1 - Communications and Electrical Electronics at Faculty of Engineering, Cairo University.
-Looking forward to becoming an Embedded Softwre Engineer.
+
 
 <p align="center">----------------</p>
 <h1 align="center">Skills</h1>
@@ -22,6 +22,7 @@ Looking forward to becoming an Embedded Softwre Engineer.
    </p>
 <p align="center">------------------------------------------------------------------</p>
 
-My latest Embedded Systems Project "On-demand Traffic Light Control System"! 👌 <https://github.com/Moaz-Helmy/On-Demand-Traffic-Control-System.git>
+- My latest Embedded Systems Project "On-demand Traffic Light Control System"! 👌 <https://github.com/Moaz-Helmy/On-Demand-Traffic-Control-System.git>
+- My latest  Digital Design Project "Single-cycle RISC-V Processor"! 👌 <https://github.com/Moaz-Helmy/Single_Cycle_RISC_V_Processor.git>
 
 
