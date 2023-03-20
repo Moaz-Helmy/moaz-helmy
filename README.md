@@ -8,7 +8,7 @@
   
 <p align="center">----------------</p>
 
-<p align="center">*I'm a senior 1 - Communications and Electrical Electronics at Faculty of Engineering, Cairo University.*</p>
+<p align="center">I'm a senior 1 - Communications and Electrical Electronics at Faculty of Engineering, Cairo University.</p>
 
 
 <p align="center">----------------</p>
