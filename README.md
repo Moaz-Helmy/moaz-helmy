@@ -1,29 +1,25 @@
-<h1 align="center">Hi, I'm Moaz 👋</h1>
-<p align="center">
-    <a href="https://web.facebook.com/moaz.mohamed.376043/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-    <a href="https://www.linkedin.com/in/moaz-mohamed-helmy/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-    <a href="https://twitter.com/Moaz_Mohamed__/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-    <a href="https://www.instagram.com/moaz.mohamed__/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  </p>
-  
-<p align="center">----------------</p>
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+<h1 align="center">Hi 👋, I'm Moaz Helmy</h1>
+<h3 align="center">Digital IC Design Enthusiast</h3>
+<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg)">
 
-<p align="center">I'm a senior 1 - Communications and Electrical Electronics at Faculty of Engineering, Cairo University.</p>
+- 🔭 I’m currently working on [SPI Communication protocol design](https://github.com/Moaz-Helmy/SPI.git)
 
+- 🌱 I’m currently learning **Verilog, VHDL, and other Digital Design concepts**
 
-<p align="center">----------------</p>
-<h1 align="center">Skills</h1>
-<p align="center">
-  <img src="https://img.shields.io/badge/Embedded Systems-00599C?style=for-the-badge&logo=java&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/AVR Microcontrollers-00599C?style=for-the-badge&logo=java&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Verilog HDL-00599C?style=for-the-badge&logo=java&logoColor=white"/></a>
-   </p>
-<p align="center">------------------------------------------------------------------</p>
+- 📫 How to reach me **moazmohamed262@yahoo.com**
 
-- My latest Embedded Systems Project "On-demand Traffic Light Control System"! 👌 <https://github.com/Moaz-Helmy/On-Demand-Traffic-Control-System.git>
-- My latest  Digital Design Project "Single-cycle RISC-V Processor"! 👌 <https://github.com/Moaz-Helmy/Single_Cycle_RISC_V_Processor.git>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/moaz-mohamed-helmy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/moaz-mohamed-helmy/" height="30" width="40" /></a>
+<a href="https://fb.com/https://web.facebook.com/moaz.mohamed.376043/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/moaz.mohamed.376043/" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=moaz-helmy&show_icons=true&locale=en&layout=compact" alt="moaz-helmy" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=moaz-helmy&show_icons=true&locale=en" alt="moaz-helmy" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moaz-helmy&" alt="moaz-helmy" /></p>
